@@ -1,0 +1,32 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js start
+
+PATH: 
+  C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WinAVR-20100110\bin;C:\WinAVR-20100110\utils\bin;C:\Python27\;C:\Python27\Scripts;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\AMD APP\bin\x86_64;C:\Program Files (x86)\AMD APP\bin\x86;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Java\jdk1.8.0_111\bin;C:\grails-3.2.3\bin;C:\Users\Poon\Downloads\curl-7.52.1\AMD64;C:\Program Files\Git\cmd;C:\ProgramData\chocolatey\bin;C:\Users\Poon\AppData\Local\Android\sdk\tools;C:\Users\Poon\AppData\Local\Android\sdk\platform-tools;C:\xampp\php;C:\Users\Poon\AppData\Local\Android\sdk;C:\ProgramData\ComposerSetup\bin;C:\Users\Poon\Desktop\work\bin;C:\Program Files (x86)\DLR\Sumo\bin\;C:\Program Files\nodejs\;C:\Program Files (x86)\DLR\Sumo\tools\;C:\Program Files (x86)\Yarn\bin\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Poon\AppData\Local\Programs\Python\Python36-32\Scripts\;C:\Users\Poon\AppData\Local\Programs\Python\Python36-32\;C:\Users\Poon\AppData\Local\Microsoft\WindowsApps;C:\Modeltech_pe_edu_10.4a\win32pe_edu;C:\Users\Poon\AppData\Local\atom\bin;C:\Users\Poon\AppData\Roaming\Composer\vendor\bin;C:\Users\Poon\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Users\Poon\AppData\Roaming\npm;C:\Users\Poon\AppData\Local\Yarn\bin;C:\Users\Poon\AppData\Local\GitHubDesktop\bin
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  8.9.4
+
+Platform: 
+  win32 x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: Couldn't find a package.json file in "C:\\Users\\Poon\\Desktop\\work\\basic grapgql\\test"
+      at new MessageError (C:\Program Files (x86)\Yarn\lib\cli.js:186:110)
+      at C:\Program Files (x86)\Yarn\lib\cli.js:40048:15
+      at Generator.next (<anonymous>)
+      at step (C:\Program Files (x86)\Yarn\lib\cli.js:98:30)
+      at C:\Program Files (x86)\Yarn\lib\cli.js:109:13
+      at <anonymous>

@@ -1,0 +1,13 @@
+{
+    "presets": [
+      [
+        "env",
+        {
+          "targets": { "node": "9" }
+        }
+      ],
+      "stage-0"
+    ],
+    "sourceMaps": "inline"
+  }
+  
